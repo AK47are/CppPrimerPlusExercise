@@ -1,0 +1,5 @@
+This is a simple line.
+That is a pig.
+Hello, world.
+You are my friend.
+Can you help me?
