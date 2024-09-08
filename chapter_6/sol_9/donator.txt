@@ -1,0 +1,22 @@
+10
+John Doe
+5000
+Alice Smith
+150000
+Bob Johnson
+30000
+Mary Brown
+200000
+James White
+75000
+Olivia Lewis
+30000
+Liam Miller
+750
+Sophia Martinez
+50000
+Noah Taylor
+60000
+Ava Anderson
+120000
+
