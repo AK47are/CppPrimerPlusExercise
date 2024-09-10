@@ -16,6 +16,7 @@ void SALES::setSales(Sales& s, const double ar[], int n) {
     if (max < s.sales[i]) max = s.sales[i];
     if (min > s.sales[i]) min = s.sales[i];
   }
+  s.average = sum / QUARTERS;
 }
 
 void SALES::setSales(SALES::Sales& s) {
@@ -29,6 +30,7 @@ void SALES::setSales(SALES::Sales& s) {
     if (max < s.sales[i]) max = s.sales[i];
     if (min > s.sales[i]) min = s.sales[i];
   }
+  s.average = sum / QUARTERS;
 }
 
 void SALES::showSales(const Sales& s) {
