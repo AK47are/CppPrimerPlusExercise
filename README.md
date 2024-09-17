@@ -1,6 +1,6 @@
 # C++ Primer Plus
 ## 说明：
-包含全部题解，但不包含题目。如果发现错误，欢迎提出issue或进行pull request来改善这个仓库！
+本仓库主要为个人使用，仅供参考。包含全部题解，但不包含题目。如果发现错误，欢迎提出issue或进行pull requests来改善这个仓库！
 
 使用工具：clang，make，gcc
 
