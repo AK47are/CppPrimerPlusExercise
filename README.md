@@ -22,9 +22,9 @@
 番茄总时间：163小时28分钟
 （如果想要参考，推荐实实在在自己用番茄时间记录下一天或一周学习用多少番茄时间，仅靠自己感觉来估算自己要花多少时间非常不靠谱！）<br>
 
-代码量（仅统计cpp和h文件）：12000+ <br>
+代码量（仅统计cpp和h文件）：6000+ <br>
 统计命令：<br>
-`find . \( -name "*.cpp" -o -name "*.h" \) | xargs wc -l | awk '{total += $1} END {print total}'`<br>
+`find . \( -name "*.cpp" -o -name "*.h" -o -name "*.md" \)  -exec wc -l {} +`<br>
 
 
 
